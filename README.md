@@ -1,0 +1,2 @@
+# JuviaBot
+Discord bot
