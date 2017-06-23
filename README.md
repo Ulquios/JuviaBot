@@ -1,2 +1,2 @@
 # JuviaBot
-Discord bot
+Discord bot using Discord.js
